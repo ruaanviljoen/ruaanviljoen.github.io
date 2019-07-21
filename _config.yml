@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: Welcome to ruaanviljoen's homepage!
 description: Site still under construction, check back soon!
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
