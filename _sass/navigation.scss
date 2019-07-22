@@ -8,3 +8,10 @@
   display: inline;
 }
 
+.navigation ul li a {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    background-color: lightgray;
+    line-height: 1.8em;
+}
