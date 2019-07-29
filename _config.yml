@@ -1,12 +1,10 @@
 theme: jekyll-theme-slate
-title: Welcome to ruaanviljoen's homepage!
+title: Welcome to Ruaan's homepage!
 description: Site still under construction, check back soon!
 
 navigation:
 - title: Home
   link: index.html
-- title: Readme
-  link: README.html
 - title: contact.me
   link: contact.html
 
