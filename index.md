@@ -1,4 +1,4 @@
-## Hi, I'm Ruaan.
+## About Me
 
  I'm a software developer and I Like technology, people and solving problems.
 
