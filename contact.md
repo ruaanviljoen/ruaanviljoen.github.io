@@ -1,9 +1,15 @@
----
----
+I'm not super active on social media, but if you want, connect with me. Or check out some more about me
 {% if site.linkedin_username %}
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-      <i class="fa fa-linkedin"></i> LinkedIn
+      <i style="color:#0077B5;" class="fab fa-linkedin"></i> My LinkedIn
+    </a>
+  </li>
+ {% endif %}
+ {% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fab fa-github-square"></i> GitHub
     </a>
   </li>
 {% endif %}
