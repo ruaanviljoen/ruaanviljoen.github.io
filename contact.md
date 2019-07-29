@@ -1,5 +1,6 @@
 ---
 ---
+## Contact me
 I'm not super active on social media. However feel free to connect or collaborate with me.
 {% if site.linkedin_username %}
   <li>
