@@ -1,4 +1,4 @@
-I'm not super active on social media, but if you want, connect with me. Or check out some more about me
+I'm not super active on social media. However feel free to connect or collaborate with me.
 {% if site.linkedin_username %}
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
@@ -9,7 +9,7 @@ I'm not super active on social media, but if you want, connect with me. Or check
  {% if site.github_username %}
   <li>
     <a href="https://github.com/{{ site.github_username }}">
-      <i class="fab fa-github-square"></i> GitHub
+      <i style="color:black;" class="fab fa-github-square"></i> GitHub
     </a>
   </li>
 {% endif %}
