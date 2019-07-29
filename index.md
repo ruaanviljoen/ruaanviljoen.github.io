@@ -1,6 +1,7 @@
-## A test entry to start with
-With some content included
-- some bulletpoints
-- and another one
+## Hi, I'm Ruaan.
 
-Test a link at [README](README.html)
+ I'm a software developer and I Like technology, people and solving problems.
+
+This site is under construction. Check back soon.
+
+Get in touch [here](contact.html) 
