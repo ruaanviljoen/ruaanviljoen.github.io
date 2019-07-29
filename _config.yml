@@ -10,6 +10,9 @@ navigation:
 - title: contact.me
   link: contact.html
 
+github_username:      ruaanviljoen
+linkedin_username:    ruaan-viljoen-7931127b
+
 plugins:
   - jekyll-relative-links
 relative_links:
