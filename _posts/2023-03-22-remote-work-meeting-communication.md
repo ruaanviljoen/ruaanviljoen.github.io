@@ -18,8 +18,14 @@ If you are you seeing any of these symptions working remotely, you might have fo
 - Drifting / lack of focus in meetings or finding yourself wondering *'what person X doing, are they still in the meeting?'*
 
 ## Re-learning to communicate like a human
-The objective is to mitigate the loss of cues while online. Do this by replacing in-person techniques and supplement with new techniques, but be wary of some anti-patterns
+What we should do is to mitigate the loss of social cues while online. Do this by replacing in-person techniques and supplementing with new techniques and tools.
 
-- Do keep and encourage camera's - get back body language and the perception of eye contact
-- Do use online tools fully - use feature like raising your hand and showing emotions/emoticons to show engagement and stay in the conversation. With low latency and small teams, this can be handled with cameras being on, but often people start speaking over each other and slow down communication and cause frustration and disengagement
-- Do use verbal cues - keep using like you would in person, but also replace the lack of body language with increased verbal cues. Nothing is worse to a speaker than speaking to the darkness - imagine being blind and talking to a crowd.
+- Encourage web cams of particpants being on - this gives you back body language cues, some facial expressions and some form of eye contact
+- Use online tools fully - use feature like raising your hand and showing emotions/emoticons to show engagement and stay in the conversation. With low latency and small teams, this can be handled with cameras being on, but often people start speaking over each other that can cause frustration and disengagement
+- Make use of verbal cues - replace the lack of body language with increased verbal cues such as confirmations to replace nods. Nothing is worse to a speaker than speaking to the darkness -(imagine being blind and talking to a crowd)
+- Stay focused - with the ability to hide distractions or the temptation to multi-task or type in chat *while* in a meeting, its easier to be distracted or to distract the speaker. Avoid doing this and focus on the speaker and meeting/collaboration objective.
+
+There are many other techniques that overlap with facilitation, active listening skills and general conversational and collaboration skills that can improve the way we communicate, but being empathetic towards the speaker and other team members and focusing on active participation is the basis of the above suggestions to quickly help improve your online interaction.
+
+## Where to from here?
+As online tools improve and with the global increase during and post COVID-19 fully or partially remote teams are here to stay. The point is that it is important that we consider the fact that hosting, facilitating, and participating online *removes a lot of the communication tools we naturally have as humans and we need to be conscious about mitigating and adapting the way we communicate while part of a team that does not have physical proximity.
