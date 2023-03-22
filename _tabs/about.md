@@ -6,7 +6,7 @@ order: 4
 
 I'm a **software developer** based in Cape Town, South Africa.
 
-I've been trying to be a good leader since 2017, coding professionally since 2011, amateur :P since 2003. Domains I've worked in professionally finance, insurance, investment, trading and MERL tech (social impact). **C# and Flutter is nice**, but so are many other things.
+I've been trying to be a good leader since 2017, coding professionally since 2011, amateur :P since 2003. Domains I've worked in professionally include finance, insurance, investment, trading and MERL tech (social impact). **C# and Flutter is nice**, but so are many other things.
 
 Agile and Scrum has become an emerging passion for me over the years. Enough to do an A-CSD and do some **Agile and process coaching** on the side.
 
