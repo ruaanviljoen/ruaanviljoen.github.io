@@ -1,5 +1,5 @@
 ---
-title: Are remote employees less human?
+title: Is remote work damaging your collaboration?
 date: 2023-03-22 11:38:01 +0200
 categories: [Blogging, Coaching]
 tags: [communication]     # TAG names should always be lowercase
