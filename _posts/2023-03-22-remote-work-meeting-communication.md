@@ -10,7 +10,7 @@ As humans, we learn to communicate through interaction in the physical world. Ta
 ## How virtual communication impacts us
 You need to adapt to the lack of natural social cues to avoid putting yourself at a disadvantage. 
 
-Research has shown that remote work can impede communication and collaboration. But finding the correlation in our own environment isn't straightforward - communication and collaboration aren't mathematics - so attributing problems to remote work can be challenging. I work in the software development industry, and from my own experience in organizations and team interactions, there were noticeable impacts in some areas that correlated to the increase in virtual work (or fully remote work)
+Some research has shown that remote work can impede collaboration. But finding the correlation in our own environment isn't straightforward - communication and collaboration aren't mathematics - so attributing problems to remote work can be challenging. I work in the software development industry, and from my own experience in organizations and team interactions, there were noticeable impacts in some areas that correlated to the increase in virtual work (or fully remote work).
 
 - Quiet individuals in teams withdrawing
 - Increased mental health concerns
