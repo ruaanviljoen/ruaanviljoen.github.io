@@ -8,9 +8,7 @@ tags: [communication]     # TAG names should always be lowercase
 As humans, we learn to communicate through interaction in the physical world. Taking and giving social and physical cues are baked into our DNA - tone of voice, micro-expressions, body language, eye contact and bio-mimicry. Working in a virtual environment denies us natural access to most of these and lower-quality versions of others. By working remotely, you and your team may be losing touch with the human side of communicating.
 
 ## How virtual communication impacts us
-You need to adapt to the lack of natural social cues to avoid putting yourself at a disadvantage. 
-
-Some research has shown that remote work can impede collaboration. But finding the correlation in our own environment isn't straightforward - communication and collaboration aren't mathematics - so attributing problems to remote work can be challenging. I work in the software development industry, and from my own experience in organizations and team interactions, there were noticeable impacts in some areas that correlated to the increase in virtual work (or fully remote work).
+Some research has shown that remote work can impede collaboration. But finding the correlation in our own environment isn't straightforward - communication and collaboration aren't mathematics - so attributing problems directly to remote work can be challenging. I work in the software development industry, and from my own experience in organizations and team interactions, there were noticeable impacts in some areas that correlated to the increase in virtual work (or fully remote work). You may or may note be seeing some of these or other affects in your environment:
 
 - Quiet individuals in teams withdrawing
 - Increased mental health concerns
