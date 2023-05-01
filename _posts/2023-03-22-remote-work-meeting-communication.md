@@ -44,3 +44,8 @@ These have another clear theme:
 As online tools improve and with the global increase during and post-COVID-19, fully or partially remote teams are a reality of how our world has changed. 
 
 Be aware of how hosting, facilitating, and participating in a virtual environment removes many of the communication tools we naturally have as humans and be conscious about mitigating the drawbacks and adapting how you communicate while part of a team that works together virtually.
+
+## Interesting links and some sources I reviewed while writing the post
+- [MIT Study on Effects of Remote work on Collaboration](https://www.nature.com/articles/s41562-021-01196-4)
+- [Finnish Study on Employee Perceptions of relational communication in remote environments](https://www.sciencedirect.com/science/article/pii/S0747563222000620)
+- [Malaysian Study on Remote work and Communication Challenges](https://www.researchgate.net/publication/352305054_Remote_Work_New_Normal_Communication_Challenges)
